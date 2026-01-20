@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-[![Демо]](https://lina-whm.github.io/pixel-art-editor)
+[Демо](https://lina-whm.github.io/pixel-art-editor)
 
 ## Возможности
 
